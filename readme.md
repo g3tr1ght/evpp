@@ -9,7 +9,7 @@ evpp
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
 
-# Introduction  [中文说明](readme_cn.md)
+# Introduction
 
 [evpp] is a modern C++ network library for developing high performance network services using TCP/UDP/HTTP protocols.
 [evpp] provides a TCP Server to support multi-threaded nonblocking event-driven server and also a HTTP, UDP Server to support HTTP and UDP protocols.
